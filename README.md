@@ -1,2 +1,2 @@
-# juegolandia
+# juego
 Proyecto para la selección de un menú de juegos simples en Java
